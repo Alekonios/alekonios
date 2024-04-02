@@ -28,7 +28,7 @@ func who_am_i():
 ### ![Collapse gif](https://github.com/Alekonios/alekonios/blob/main/images/ezgif.com-video-to-gif.gif)
 ### Description:
 ```
-this project is currently abandoned...
+This project is being developed now!
 the essence of the game is that we work as a miner, and metaphysical phenomena gradually occur, the cause of which is a certain entity
 
 ```
@@ -36,7 +36,7 @@ the essence of the game is that we work as a miner, and metaphysical phenomena g
 ### ![Collapse gif](https://github.com/Alekonios/alekonios/blob/main/images/ezgif-6-0ecc632758.gif)
 ### Description:
 ```
-This project is being developed now!
+this project is currently abandoned...
 This project is supposed to be a stealth game with RPG elements, but unfortunately I decided to postpone
 
 ```
