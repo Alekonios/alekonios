@@ -1,5 +1,5 @@
 # **Alekonios**
-[![Header](https://github.com/Def3p/def3p/blob/main/images/baneer_for_git.jpg)](https://discord.gg/JqgbQ6SRmr)
+[![Header](https://github.com/Alekonios/alekonios/blob/main/images/baneer_for_git.jpg)](https://discord.gg/JqgbQ6SRmr)
 
 ## About Me:
 ```
@@ -26,7 +26,7 @@ func who_am_i():
 ## Projects:
 ### **Collapse** 
     Project in development
-### ![Collapse gif](https://github.com/Def3p/def3p/blob/main/images/ezgif.com-video-to-gif.gif)
+### ![Collapse gif](https://github.com/Alekonios/alekonios/blob/main/images/ezgif.com-video-to-gif.gif)
 ### Description:
 ```
 the essence of the game is that we work as a miner, and metaphysical phenomena gradually occur, the cause of which is a certain entity
