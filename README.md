@@ -24,14 +24,19 @@ func who_am_i():
 [![Static Badge](https://img.shields.io/badge/Itch.io-black?style=for-the-badge&logo=itchdotio&logoColor=white)](https://sequential-studio.itch.io/)
 
 ## Projects:
-### **Collapse** 
-    Project in development
+### **Godot** 
 ### ![Collapse gif](https://github.com/Alekonios/alekonios/blob/main/images/ezgif.com-video-to-gif.gif)
 ### Description:
 ```
+this project is currently abandoned...
 the essence of the game is that we work as a miner, and metaphysical phenomena gradually occur, the cause of which is a certain entity
 
 ```
 
-### Repository:
-> **[Github](https://github.com/Def3p/Welcome)**
+### ![Collapse gif](https://github.com/Alekonios/alekonios/blob/main/images/ezgif-6-0ecc632758.gif)
+### Description:
+```
+This project is being developed now!
+This project is supposed to be a stealth game with RPG elements, but unfortunately I decided to postpone
+
+```
