@@ -49,4 +49,4 @@ This discord bot is a game bot, you can play the famous crocodile game with it!
 >[![Static Badge](https://img.shields.io/badge/Discord-orange?style=for-the-badge&logo=discord&logoColor=black)](https://discord.gg/DtUMhknHTA)
 [![Static Badge](https://img.shields.io/badge/Steam-orange?style=for-the-badge&logo=steam&logoColor=black)](https://steamcommunity.com/profiles/76561199509811542/)
 [![Static Badge](https://img.shields.io/badge/Itch.io-orange?style=for-the-badge&logo=itchdotio&logoColor=black)](https://sequential-studio.itch.io/)
-[![Static Badge](https://img.shields.io/badge/telegram-orange?style=for-the-badge&logo=itchdotio&logoColor=black)](https://t.me/Alekoon)
+[![Static Badge](https://img.shields.io/badge/telegram-orange?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Alekoon)
