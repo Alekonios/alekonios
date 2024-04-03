@@ -15,16 +15,17 @@ func who_am_i():
 ## Tools, Languages and Technologies:
 > [![Static Badge](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=black)]()
 [![Static Badge](https://img.shields.io/badge/ChatGPT-orange?style=for-the-badge&logo=OpenAI&logoColor=black)]()
-[![Static Badge](https://img.shields.io/badge/Godot-orange?style=for-the-badge&logo=godotengine&logoColor=black)]()
+[![Static Badge](https://img.shields.io/badge/Godot-orange?style=for-the-badge&logo=godotengine&logoColor=black)](https://godotengine.org/)
 [![Static Badge](https://img.shields.io/badge/python-orange?style=for-the-badge&logo=python&logoColor=black)]()
 
-## Projects:
+# **Projects:**
 ### **Godot** 
 ### ![Collapse gif](https://github.com/Alekonios/alekonios/blob/main/images/ezgif.com-video-to-gif.gif)
 ### Description:
 ```
 This project is being developed now!
-the essence of the game is that we work as a miner, and metaphysical phenomena gradually occur, the cause of which is a certain entity
+the essence of the game is that we work as a miner, and metaphysical 
+phenomena gradually occur, the cause of which is a certain entity
 
 ```
 
@@ -36,6 +37,15 @@ This project is supposed to be a stealth game with RPG elements, but unfortunate
 
 ```
 
+### ![Collapse gif](https://github.com/Alekonios/alekonios/blob/main/images/ezgif-4-a364a3a7f2.gif)
+### Description:
+```
+This project is completed!
+This is a runner game, in which you run, while dodging dangers such as a fence or zombies. 
+Periodically, an airdrop with weapons or ammunition falls from the sky!
+
+```
+
 ### **Python bots** 
 ### ![Collapse gif](https://github.com/Alekonios/alekonios/blob/main/images/ezgif-6-9c1a194eed.gif)
 ### Description:
@@ -43,6 +53,7 @@ This project is supposed to be a stealth game with RPG elements, but unfortunate
 ```
 This project is completed!
 This discord bot is a game bot, you can play the famous crocodile game with it!
+code : https://github.com/Alekonios/python-bots
 ```
 
 ## Follow me:
