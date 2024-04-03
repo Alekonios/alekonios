@@ -18,8 +18,8 @@ func who_am_i():
 [![Static Badge](https://img.shields.io/badge/Godot-orange?style=for-the-badge&logo=godotengine&logoColor=black)](https://godotengine.org/)
 [![Static Badge](https://img.shields.io/badge/python-orange?style=for-the-badge&logo=python&logoColor=black)]()
 
-# **Projects:**
-### **Godot** 
+# **Godot Projects:**
+### In The Depth
 ### ![Collapse gif](https://github.com/Alekonios/alekonios/blob/main/images/ezgif.com-video-to-gif.gif)
 ### Description:
 ```
@@ -28,7 +28,7 @@ the essence of the game is that we work as a miner, and metaphysical
 phenomena gradually occur, the cause of which is a certain entity
 
 ```
-
+### Idiot
 ### ![Collapse gif](https://github.com/Alekonios/alekonios/blob/main/images/ezgif-6-0ecc632758.gif)
 ### Description:
 ```
@@ -36,7 +36,7 @@ this project is currently abandoned...
 This project is supposed to be a stealth game with RPG elements, but unfortunately I decided to postpone
 
 ```
-
+### Zombie in the fog
 ### ![Collapse gif](https://github.com/Alekonios/alekonios/blob/main/images/ezgif-4-a364a3a7f2.gif)
 ### Description:
 ```
@@ -47,6 +47,7 @@ Periodically, an airdrop with weapons or ammunition falls from the sky!
 ```
 
 ### **Python bots** 
+### Crocodile bot
 ### ![Collapse gif](https://github.com/Alekonios/alekonios/blob/main/images/ezgif-6-9c1a194eed.gif)
 ### Description:
 
@@ -57,7 +58,7 @@ code : https://github.com/Alekonios/python-bots
 ```
 
 ## Follow me:
->[![Static Badge](https://img.shields.io/badge/Discord-orange?style=for-the-badge&logo=discord&logoColor=black)](https://discord.gg/DtUMhknHTA)
+>[![Static Badge](https://img.shields.io/badge/Discord-orange?style=for-the-badge&logo=discord&logoColor=black)](https://discord.gg/ZgjaYtVECD)
 [![Static Badge](https://img.shields.io/badge/Steam-orange?style=for-the-badge&logo=steam&logoColor=black)](https://steamcommunity.com/profiles/76561199509811542/)
 [![Static Badge](https://img.shields.io/badge/Itch.io-orange?style=for-the-badge&logo=itchdotio&logoColor=black)](https://sequential-studio.itch.io/)
 [![Static Badge](https://img.shields.io/badge/telegram-orange?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Alekoon)
