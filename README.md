@@ -46,7 +46,7 @@ Periodically, an airdrop with weapons or ammunition falls from the sky!
 
 ```
 
-### **Python bots** 
+# **Python bots** 
 ### Crocodile bot
 ### ![Collapse gif](https://github.com/Alekonios/alekonios/blob/main/images/ezgif-6-9c1a194eed.gif)
 ### Description:
