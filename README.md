@@ -34,7 +34,7 @@ phenomena gradually occur, the cause of which is a certain entity
 ```
 this project is currently abandoned...
 This project is supposed to be a stealth game with RPG elements, but unfortunately I decided to postpone
-
+code: https://github.com/Alekonios/IDIOT_BETA
 ```
 ### Zombie in the fog
 ### ![Collapse gif](https://github.com/Alekonios/alekonios/blob/main/images/ezgif-4-a364a3a7f2.gif)
@@ -43,6 +43,7 @@ This project is supposed to be a stealth game with RPG elements, but unfortunate
 This project is completed!
 This is a runner game, in which you run, while dodging dangers such as a fence or zombies. 
 Periodically, an airdrop with weapons or ammunition falls from the sky!
+code: https://github.com/Alekonios/zombies-in-the-fog
 
 ```
 
